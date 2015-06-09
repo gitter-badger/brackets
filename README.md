@@ -1,6 +1,8 @@
 Welcome to Brackets! [![Build Status](https://travis-ci.org/adobe/brackets.png?branch=master)](https://travis-ci.org/adobe/brackets)
 -------------------
 
+[![Join the chat at https://gitter.im/Carreau/brackets](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Carreau/brackets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is an early version of Brackets, a code editor for HTML, CSS
 and JavaScript that's *built* in HTML, CSS and JavaScript. 
 
